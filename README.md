@@ -19,5 +19,5 @@ We can use dashes to create ordered lists:
 Using single stars will italicize your message: *Italic Text*
 
 ## Additional Remote Changes:
-Changes made **remotely**
+Changes made **remotely**!
 
