@@ -18,3 +18,6 @@ We can use dashes to create ordered lists:
 ## And Finally we have italics:
 Using single stars will italicize your message: *Italic Text*
 
+## Additional Remote Changes:
+Changes made **remotely**
+
