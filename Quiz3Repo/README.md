@@ -18,6 +18,3 @@ We can use dashes to create ordered lists:
 ## And Finally we have italics:
 Using single stars will italicize your message: *Italic Text*
 
-## Another Block:
-This was a block added **Locally**!!
-
